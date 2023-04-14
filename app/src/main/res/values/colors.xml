@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_primary">#FF5722</color>
+    <color name="my_secondary">#03A9F4</color>
+    <color name="my_statusbar">#4CAF50</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nightPrimary">#0099FF</color>
+    <color name="nightSecondary">#4b4b58</color>
+    <color name="nightStatusBarColor">#E0E0E0</color>
+    <color name="my_text">#ED0A0A</color>
+    <color name="purple_200">#CA51DF</color>
+</resources>

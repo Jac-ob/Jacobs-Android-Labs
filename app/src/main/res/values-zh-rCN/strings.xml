@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jie\'s Android Labs</string>
+    <string name="hello_message">世界，您好！</string>
+    <string name="button_text">这是一个按钮</string>
+</resources>
